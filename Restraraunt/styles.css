@@ -1,0 +1,12 @@
+    .deals-information {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: red;
+    top: 100px;
+  }
+  deals-section {
+      width: 625px;
+      height: 300px;
+      position: relative;
+  }
